@@ -4,4 +4,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiechsaa&layout=compact" />
 </a>
+
+<br />
+<h2>Only Bunnies</h2>
+<h3>Quick prototype of app, copy of Instagram, but for bunnies only</h3>
 <p>https://only-bunnies.herokuapp.com/</p>
