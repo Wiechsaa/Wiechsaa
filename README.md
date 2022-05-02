@@ -5,7 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiechsaa&layout=compact" />
 </a>
 <hr >
-<br />
 <h2>Only Bunnies</h2>
 <h3>Quick prototype of app, copy of Instagram, but for bunnies</h3>
 <p>https://only-bunnies.herokuapp.com/</p>
