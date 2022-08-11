@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Szymon</h1>
-<h3 align="center">Backend developer</h3>
+<h3 align="center">Ruby Backend Developer</h3>
 <h1></h1>
 
 - 🌱 I’m currently learning **Object-Oriented Design Patterns**
